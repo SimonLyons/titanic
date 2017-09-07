@@ -1,0 +1,9 @@
+{
+    "path" : "~/data_analysis/projects/titanic/titantic_data/sandpit",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
